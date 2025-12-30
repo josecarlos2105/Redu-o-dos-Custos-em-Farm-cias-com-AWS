@@ -44,16 +44,6 @@ Recomenda-se a continuidade do uso das soluções adotadas e a análise periódi
 
 ---
 
-## 📎 Anexos
-
-- Relatórios de custos gerados pelo AWS Cost Explorer
-
-- Recomendações do AWS Trusted Advisor
-
-- Documentação de configuração do Amazon EC2 Auto Scaling
-
-
----
 ## Autor
 
 José Carlos
